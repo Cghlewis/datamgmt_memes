@@ -8,6 +8,7 @@ Memes | Memes
 ![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/break-dance_plan.PNG) | ![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/bus_quality.jpg)
 ![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/costume_documentation.jpg) | ![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/dan_code.png)
 ![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/door-handle_standards.PNG)| ![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/duck_motivational.jpg)
+![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/goose_rules.jpg) | ![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/highway_measures.PNG)
 
 
 
