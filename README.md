@@ -23,7 +23,7 @@ Memes | Memes
 ![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/sopranos_document.PNG) | ![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/spongebob_solutions.jpg)
 ![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/star-wars_dates.jpg) | ![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/star-wars_survey.jpg)
 ![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/structure_reproducible.jpg) | ![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/titanic_dictionary.PNG)
-![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/whisper_documentation.PNG) | 
+![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/whisper_documentation.PNG) | ![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/horse_datamgmt.jpg)
 
 
 
