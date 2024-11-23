@@ -15,15 +15,16 @@ Memes | Memes
 ![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/obama_cleaning.jpg) | ![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/office_datamgr.png)
 ![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/office_mistakes.png) | ![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/olympics_errors.PNG)
 ![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/pedro_version.jpg) | ![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/pen15_document.PNG)
-![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/pie-chart_code.jpg) | ![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/radcliffe_management.jpg)
-![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/shrimp_inspect.PNG) | ![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/simpsons_datamgr.png)
-![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/simpsons_dmp.png) | ![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/simpsons_rule.jpg)
+![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/radcliffe_management.jpg) |![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/star-wars_survey.jpg)
+![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/simpsons_datamgr.png) | ![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/simpsons_dmp.png) 
+![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/shrimp_inspect.PNG) | ![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/simpsons_rule.jpg)
 ![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/sinking_quality.jpg) | ![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/skeleton_document.jpg)
-![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/slide_standards.png) | ![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/snoop_cleaning.PNG)
+![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/slide_standards.png) | ![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/star-wars_dates.jpg) 
 ![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/sopranos_document.PNG) | ![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/spongebob_solutions.jpg)
-![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/star-wars_dates.jpg) | ![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/star-wars_survey.jpg)
-![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/structure_reproducible.jpg) | ![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/titanic_dictionary.PNG)
+![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/snoop_cleaning.PNG) | ![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/pie-chart_code.jpg)
+![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/titanic_dictionary.PNG) |![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/structure_reproducible.jpg)
 ![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/whisper_documentation.PNG) | ![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/horse_datamgmt.jpg)
+
 
 
 
