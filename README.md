@@ -24,6 +24,7 @@ Memes | Memes
 ![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/snoop_cleaning.PNG) | ![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/pie-chart_code.jpg)
 ![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/titanic_dictionary.PNG) |![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/structure_reproducible.jpg)
 ![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/whisper_documentation.PNG) | ![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/horse_datamgmt.jpg)
+![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/zendaya_document.PNG)
 
 
 
