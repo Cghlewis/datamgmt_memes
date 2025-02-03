@@ -26,6 +26,9 @@ Memes | Memes
 ![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/whisper_documentation.PNG) | ![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/horse_datamgmt.jpg)
 ![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/zendaya_document.PNG) | ![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/kevin_collection.jpg)
 ![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/homealone_clean.PNG) | ![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/wave_endofcycle.PNG)
+![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/kond_data-organize.jpg) | ![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/line_data-essentials.jpg)
+![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/midsommar_code.PNG) | ![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/qualtrics_download.PNG)
+![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/simpson_rstats.jpg)
 
 
 
