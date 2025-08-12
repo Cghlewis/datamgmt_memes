@@ -31,6 +31,8 @@ Memes | Memes
 ![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/simpson_rstats.jpg) | ![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/oreilly_data-mgmt_book.jpeg)
 ![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/indiana_documentation.PNG) | ![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/white-lotus_organization.PNG)
 ![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/white-lotus_document.jpg) |![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/cat_documentation.jpg)
+![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/airplane_wing_clean.PNG)
+
 
 
 
