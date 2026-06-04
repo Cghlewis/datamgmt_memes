@@ -33,7 +33,7 @@ Memes | Memes
 ![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/white-lotus_document.jpg) |![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/cat_documentation.jpg)
 ![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/airplane_wing_clean.PNG) | ![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/cat_clean.png)
 ![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/homer_dictionary.png) | ![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/office_dm.PNG)
-
+![](https://github.com/Cghlewis/datamgmt_memes/blob/main/memes/yoda_planning.png)
 
 
 
